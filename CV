@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Personal Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>[Your Name]</h1>
+    <p>IT Quality Assurance Professional & AI Photo Editing Enthusiast</p>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="container">
+    <h2>About Me</h2>
+    <p>Hi, I'm [Your Name], a seasoned IT Quality Assurance professional with over 6 years of experience. I specialize in ensuring the highest standards of software quality through meticulous testing and innovative solutions. My expertise spans various industries, where I have successfully led QA teams and implemented robust testing frameworks. Outside of work, I enjoy exploring AI photo editing applications, which combine my passion for technology and creativity.</p>
+</section>
+
+<section id="portfolio" class="container">
+    <h2>Portfolio</h2>
+    <h3>IT Quality Assurance Projects</h3>
+    <p>Details about your significant QA projects and accomplishments.</p>
+    
+    <h3>AI Photo Editing Applications</h3>
+    <ul>
+        <li><a href="https://www.remove.bg/" target="_blank">Remove.bg</a> - Specializes in removing backgrounds from photos automatically.</li>
+        <li><a href="https://deepart.io/" target="_blank">DeepArt.io</a> - Transforms your photos into artworks using AI.</li>
+        <li><a href="https://www.fotor.com/" target="_blank">Fotor</a> - Offers various AI tools for photo enhancement, retouching, and more.</li>
+        <li><a href="https://pixlr.com/x/" target="_blank">Pixlr X</a> - An advanced online photo editor with AI tools for quick and professional editing.</li>
+        <li><a href="https://www.lunapic.com/" target="_blank">LunaPic</a> - Provides a wide range of AI-powered editing tools and filters.</li>
+        <li><a href="https://letsenhance.io/" target="_blank">Let's Enhance</a> - Enhances image resolution using AI.</li>
+        <li><a href="https://www.photoroom.com/" target="_blank">PhotoRoom</a> - Automatically removes backgrounds and provides tools for creating professional-looking images.</li>
+    </ul>
+</section>
+
+<section id="contact" class="container">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+    <p>GitHub: <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
